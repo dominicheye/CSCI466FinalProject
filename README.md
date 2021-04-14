@@ -1,2 +1,2 @@
 # CSCI466FinalProject
-For the final group project of CSCI466.
+For the final group project for group “Insert Group Name Here” of CSCI466.
